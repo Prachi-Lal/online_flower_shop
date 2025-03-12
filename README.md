@@ -1,6 +1,9 @@
 # online_flower_shop
 Database backend for an online flower shop
 
+## DBMS Vendor
+ORACLE 
+
 ## Idea
 The application is an online website for a florist. It is a virtual showcase for different types of
 flowers.
